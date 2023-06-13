@@ -1,2 +1,2 @@
-# iamKuzzi.github.io
+# iamKuzzi
 Personal Website
